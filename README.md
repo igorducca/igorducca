@@ -1,5 +1,5 @@
 <h1 align="center">Oi! 👋 Eu sou o Igor Duca</h1>
-<h3 align="center">Sou um engenheiro de software de Lagoa Real(BA)</h3>
+<h3 align="center">Estou estudando para me tornar um engenheiro de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorducca&label=Profile%20views&color=0e75b6&style=flat" alt="igorducca" /> </p>
 
